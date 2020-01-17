@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea2_LeydiHuallpa</string>
+    <string name="opcion1">PLAYLIST</string>
+    <string name="opcion2">LOGIN</string>
+    <string name="Salir">SALIR</string>
+    <string name="tituloAplicacion">Tarea2</string>
+
+</resources>
